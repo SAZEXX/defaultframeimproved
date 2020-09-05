@@ -1,0 +1,29 @@
+# defaultframeimproved
+
+** Default Frame Improved is an simple UF AddOn, which targets conservatives :)
+** 131kb **
+
+## v0.2.3
+* Add change health bar color based on HP %
+
+## v0.2.2
+* Add new font name
+* Recolor name text in white
+* Add Glow Flash on target
+* Hide all glow/status flash on player
+
+## v0.2.1
+* Fix coordinated frames (focused)
+* Fix font
+* Delete class color name
+* Add Class icons on targets
+* Add Support LibHealComm
+
+## v0.2
+* Added class color plates and name on targets (background)
+* Added combat indicators (uncode if you need 144 line)
+* Bug fixes
+
+## v0.1
+* Add fonts, size
+* Updated for 1.13.2
